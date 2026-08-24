@@ -20,6 +20,17 @@ const projects = {
     ],
     images: []
   },
+  "baja-sae": {
+    title: "Baja SAE — Steer Team Lead & Drivetrain",
+    context: "Villanova Baja SAE · 2026–2027 Season",
+    tags: ["Vehicle Design", "CAD", "Fabrication"],
+    tools: ["SolidWorks", "Steering Geometry", "Drivetrain", "Machining", "Team Leadership"],
+    desc: [
+      "As Steer Team Lead for Villanova's Baja SAE team, I own the steering system for our single-seat offroad competition vehicle — the design decisions, the sub-team, and the build.",
+      "I'm also hands-on with the drivetrain, building the system that puts power to the wheels. Baja SAE vehicles get raced over terrain that actively tries to break them, so every design choice answers to the same question my portfolio keeps circling: will it survive the field?"
+    ],
+    images: []
+  },
   "beetlebot": {
     title: "BeetleBot — Combat Robot, Concept to Arena",
     context: "Mechanical Engineering Design Lab · Villanova",
