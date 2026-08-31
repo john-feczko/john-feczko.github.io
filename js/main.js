@@ -29,7 +29,9 @@ const projects = {
       "As Steer Team Lead for Villanova's Baja SAE team, I own the steering system for our single-seat offroad competition vehicle — the design decisions, the sub-team, and the build.",
       "I'm also hands-on with the drivetrain, building the system that puts power to the wheels. Baja SAE vehicles get raced over terrain that actively tries to break them, so every design choice answers to the same question my portfolio keeps circling: will it survive the field?"
     ],
-    images: []
+    images: [
+      { src: IMG + "baja-car.jpg", cap: "Villanova Baja SAE car #212 in the shop — tube-frame roll cage, coilover suspension, and the steering system my team owns." }
+    ]
   },
   "beetlebot": {
     title: "BeetleBot — Combat Robot, Concept to Arena",
